@@ -10,7 +10,7 @@ Download the datasets and place them under `data/`:
 | Ellipsoid | [Download](https://REPLACE_WITH_ELLIPSOID_URL) |
 | Cylinder | [Download](https://REPLACE_WITH_CYLINDER_URL) |
 | Airfoil | [Download](https://REPLACE_WITH_AIRFOIL_URL) |
-| SST | [Download](https://REPLACE_WITH_SST_URL) |
+| SST | [Download]([https://REPLACE_WITH_SST_URL](https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.html)) |
 
 
 ## 📚 Citation
